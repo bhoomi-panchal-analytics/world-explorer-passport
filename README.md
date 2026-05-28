@@ -1,5 +1,4 @@
-# world-explorer-passport
-Interactive educational geography app built with Streamlit and Python.
+
 # 🌍 World Explorer Passport
 
 An interactive educational geography app inspired by childhood travel explorer kits.  

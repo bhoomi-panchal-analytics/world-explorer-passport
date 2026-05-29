@@ -1,0 +1,58 @@
+{
+  "flag_quiz": [
+    {
+      "question": "Which country does this flag belong to? 🇯🇵",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Which country does this flag belong to? 🇮🇳",
+      "options": ["India", "Nepal", "Bangladesh", "Sri Lanka"],
+      "answer": "India"
+    },
+    {
+      "question": "Which country does this flag belong to? 🇫🇷",
+      "options": ["Italy", "France", "Netherlands", "Belgium"],
+      "answer": "France"
+    }
+  ],
+
+  "capital_quiz": [
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Tokyo", "Kyoto", "Beijing"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "What is the capital of India?",
+      "options": ["Mumbai", "New Delhi", "Bangalore", "Chennai"],
+      "answer": "New Delhi"
+    }
+  ],
+
+  "currency_quiz": [
+    {
+      "question": "Which country uses Yen?",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Which country uses Indian Rupee?",
+      "options": ["India", "Nepal", "Pakistan", "Bangladesh"],
+      "answer": "India"
+    }
+  ],
+
+  "language_quiz": [
+    {
+      "question": "Which language is mainly spoken in Brazil?",
+      "options": ["Spanish", "French", "Portuguese", "Italian"],
+      "answer": "Portuguese"
+    },
+    {
+      "question": "Which language is mainly spoken in Egypt?",
+      "options": ["Arabic", "Persian", "Turkish", "Hebrew"],
+      "answer": "Arabic"
+    }
+  ]
+}
